@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+get_ipython().run_line_magic('matplotlib')
+
 # Making starting grid from an excel file (Big Boy data guy now aren't we?)
 import math;
 import numpy as np;
