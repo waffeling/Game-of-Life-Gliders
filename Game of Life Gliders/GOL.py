@@ -1,23 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
-
-
-
-# In[3]:
-
-
-get_ipython().run_line_magic('whos', '')
-
-
-# In[6]:
-
-
-get_ipython().run_line_magic('matplotlib', 'notebook')
-
 # Making starting grid from an excel file (Big Boy data guy now aren't we?)
 import math;
 import numpy as np;
